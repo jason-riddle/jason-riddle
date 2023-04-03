@@ -1,1 +1,1 @@
-Find my latest work and links to my [LinkedIn](https://www.linkedin.com/in/IAmJasonRiddle), [Twitter](https://twitter.com/IAmJasonRiddle), etc. on my website: [https://www.jasonriddle.com](https://www.jasonriddle.com/?utm_source=github&utm_medium=github_readme).
+Find my latest work and links to my [LinkedIn](https://www.linkedin.com/in/IAmJasonRiddle), [Twitter](https://twitter.com/IAmJasonRiddle), etc. on my website: [https://www.jasonriddle.com](https://www.jasonriddle.com/?utm_source=github&utm_medium=organic_social&utm_campaign=profile).
