@@ -1,4 +1,3 @@
-Find my latest work on my website: [https://bio.link/jasonriddle][bio-link].
+Find my latest work on my website: [https://www.jasonriddle.com][www-jasonriddle-com].
 
 [www-jasonriddle-com]: https://www.jasonriddle.com
-[bio-link]: https://bio.link/jasonriddle
